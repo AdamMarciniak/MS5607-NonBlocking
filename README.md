@@ -2,6 +2,7 @@
 A non-blocking library for the MS5607. 
 Based on the library by Uravu Labs: https://github.com/UravuLabs/MS5607
 
+Accompanying Youtube Video: https://www.youtube.com/watch?v=5dGfKoYblQE
 
 
 ## Example usage:
