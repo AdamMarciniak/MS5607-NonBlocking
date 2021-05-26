@@ -21,6 +21,6 @@ void loop(){
 }
 
 
-//  Make sure to initialize MS5607 class with the address of your altitude variable
-// handleAltimeter equals 1 when conversion of data is ready and new altitude is ready
-// It equals 0 when there is no new altitude yet.
+- Make sure to initialize MS5607 class with the address of your altitude variable
+- handleAltimeter equals 1 when conversion of data is ready and new altitude is ready
+- It equals 0 when there is no new altitude yet.
