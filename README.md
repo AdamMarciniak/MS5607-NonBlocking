@@ -6,6 +6,8 @@ Based on the library by Uravu Labs: https://github.com/UravuLabs/MS5607
 
 ## Example usage:
 
+
+``` cpp
 float altitude;
 
 MS5607 myAltimeter(&altitude);
@@ -19,6 +21,7 @@ void loop(){
         Serial.println(altitude);
     }
 }
+```
 
 
 - Make sure to initialize MS5607 class with the address of your altitude variable
