@@ -14,6 +14,7 @@ float altitude;
 MS5607 myAltimeter(&altitude);
 
 void setup(){
+    Serial.begin(9600);
     myAltimeter.begin();
 }
 
